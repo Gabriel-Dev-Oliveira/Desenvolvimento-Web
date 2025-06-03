@@ -1,2 +1,6 @@
 # Desenvolvimento-Web
-Projeto para nota curricular para nota semestral
+
+Gabriel de Oliveira Rocha
+Gabriel Henrique Camargo da Silva
+Felipe Grünheidt Verissimo da Silva
+Isabela Oliveira Nakayama
